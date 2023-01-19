@@ -1,0 +1,7 @@
+# 设置xy轴名称
+plt.xlabel('贸易有效距离（对数）', fontsize=14)
+plt.ylabel('频率', fontsize=14)
+
+# 设置xy轴刻度
+plt.xlim(-1, 11)
+plt.ylim(0, 0.06)
