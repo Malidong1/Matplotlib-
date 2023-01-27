@@ -5,3 +5,7 @@ plt.ylabel('频率', fontsize=14)
 # 设置xy轴刻度
 plt.xlim(-1, 11)
 plt.ylim(0, 0.06)
+plt.yticks(y_tick,fontsize=20,color='#000000')
+
+#设置图名称
+plt.title('i'+'年', fontsize=20)
