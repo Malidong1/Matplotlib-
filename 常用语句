@@ -9,3 +9,8 @@ plt.yticks(y_tick,fontsize=20,color='#000000')
 
 #设置图名称
 plt.title('i'+'年', fontsize=20)
+
+#设置字母用罗马字体
+plt.xlabel('$\mathrm{log}$)
+#斜体与下标
+plt.xlabel('$\it{r_{ij}}$')
