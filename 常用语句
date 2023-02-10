@@ -14,3 +14,8 @@ plt.title('i'+'年', fontsize=20)
 plt.xlabel('$\mathrm{log}$)
 #斜体与下标
 plt.xlabel('$\it{r_{ij}}$')
+
+#颜色表
+#https://finthon.com/matplotlib-color-list/
+#marker
+#https://blog.csdn.net/weisiyu_liang/article/details/99746723
